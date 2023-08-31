@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello everyone, my name is Curtis Fothergill and I am a new software developer.
 
 <!--
 **curtisfothergill11/curtisfothergill11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
